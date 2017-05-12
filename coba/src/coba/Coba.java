@@ -16,6 +16,7 @@ public class Coba {
      */
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("Dea Cantik");
         // TODO code application logic here
     }
     
